@@ -2,4 +2,4 @@
 
 ### 완성도:90%
 
-[tourist 홈페이지 바로가기]
+[tourist 홈페이지 바로가기] (https://ssun221.github.io/tourist/)
